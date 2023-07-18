@@ -1,1 +1,1 @@
-![Untitled-11](https://github.com/ozgurcoban01/purejs-calculator/assets/102681848/3d85093f-8399-4f6b-97cc-a6d8dc808254)
+![Untitled-11](https://github.com/ozgurcoban01/purejs-calculator/assets/102681848/6114cf21-3c90-4c4d-8468-d5224b9cedd2)
